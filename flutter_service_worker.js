@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "5f7a93039121cb0c7a7f94a5604dfcd6",
+const RESOURCES = {"flutter_bootstrap.js": "f1af1c4470145a637e5b88986d3b75d6",
 "version.json": "15235b5108d6a877ef74fe3317a96bf7",
 "index.html": "71d35416f0cebbd6f750305390a41dec",
 "/": "71d35416f0cebbd6f750305390a41dec",
@@ -27,7 +27,7 @@ const RESOURCES = {"flutter_bootstrap.js": "5f7a93039121cb0c7a7f94a5604dfcd6",
 "images/flags/brazil_flag.png": "34389993989fba877df1a7f9ba79c0d3",
 "images/flags/canada_flag.png.jpg": "a8062e649372e07ca9c9656f5ac698cd",
 "images/flags/luxembour_flag.png": "3d39375314b848e6574e605b7685608f",
-"main.dart.js": "80fa7665ef0cde5fd9878e19d2bbf2e1",
+"main.dart.js": "f83623ab30c46866c1727ee0e180c7e0",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",

@@ -180,9 +180,8 @@ class _RandomizedPageState extends State<RandomizedPage> {
     }
 
     final question = _questions[_currentIndex];
-    // Check if this question was previously incorrect
-    bool wasPreviouslyIncorrect = widget.incorrectQuestions.contains(question.id);
-
+    // We'll remove the check for previously incorrect questions in the randomized mode
+    
     return Scaffold(
       appBar: AppBar(title: Text('Question ${_currentIndex + 1} / ${_questions.length}')),
       body: Padding(
@@ -196,18 +195,7 @@ class _RandomizedPageState extends State<RandomizedPage> {
             ),
             const SizedBox(height: 20),
 
-            // Show "Tricky one" message ONLY if this question was incorrect in a previous session
-            if (wasPreviouslyIncorrect) ...[
-              Text(
-                "Tricky one! Give it another shot!",
-                style: TextStyle(
-                  fontSize: 16,
-                  fontStyle: FontStyle.italic,
-                  color: Colors.deepPurple,
-                ),
-              ),
-              const SizedBox(height: 12),
-            ],
+            // We removed the "Tricky one" message for RandomizedPage
             
             // Display image for visual questions
             if (question.type == QuestionType.visualQuestion && question.imageAsset != null) ...[
@@ -463,7 +451,7 @@ class _PersonalizedPageState extends State<PersonalizedPage> {
     }
 
     final question = _questions[_currentIndex];
-    // Check if this question was previously incorrect
+    // Keep the check for previously incorrect questions in personalized mode
     bool wasPreviouslyIncorrect = widget.incorrectQuestions.contains(question.id);
 
     return Scaffold(
@@ -479,7 +467,7 @@ class _PersonalizedPageState extends State<PersonalizedPage> {
             ),
             const SizedBox(height: 20),
 
-            // Show "Tricky one" message ONLY if this question was incorrect in a previous session
+            // Show "Tricky one" message ONLY in PersonalizedPage
             if (wasPreviouslyIncorrect) ...[
               Text(
                 "Tricky one! Give it another shot!",
