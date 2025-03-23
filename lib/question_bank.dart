@@ -28,7 +28,7 @@ class QuestionBank {
       correctAnswer: "Canberra",
       type: QuestionType.visualQuestion,
       id: "australia_capital",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/capitals/canberra.png.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/canberra.png.jpg",
     ),
 
     // Question 2: Capital of France
@@ -54,7 +54,7 @@ class QuestionBank {
       correctAnswer: "Paris",
       type: QuestionType.visualQuestion,
       id: "france_capital",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/capitals/paris.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/paris.jpg",
     ),
 
     // Question 3: Capital of Rwanda
@@ -80,7 +80,7 @@ class QuestionBank {
       correctAnswer: "Kigali",
       type: QuestionType.visualQuestion,
       id: "rwanda_capital",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/capitals/rwanda_capital.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/rwanda_capital.png",
     ),
 
     // Question 4: Capital of Turkmenistan
@@ -106,7 +106,7 @@ class QuestionBank {
       correctAnswer: "Ashgabat",
       type: QuestionType.visualQuestion,
       id: "turkmenistan_capital",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/capitals/ashgabat.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/ashgabat.jpg",
     ),
 
     // Question 5: Capital of Syria
@@ -132,7 +132,7 @@ class QuestionBank {
       correctAnswer: "Damascus",
       type: QuestionType.visualQuestion,
       id: "syria_capital",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/capitals/damascus.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/damascus.png",
     ),
 
     // Question 6: Flag of Canada
@@ -158,7 +158,7 @@ class QuestionBank {
       correctAnswer: "Canada",
       type: QuestionType.visualQuestion,
       id: "canada_flag",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/flags/canada_flag.png.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/canada_flag.png.jpg",
     ),
 
     // Question 7: Flag of Japan 
@@ -184,7 +184,7 @@ class QuestionBank {
       correctAnswer: "Japan",
       type: QuestionType.visualQuestion,
       id: "japan_flag",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/flags/japan_flag.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/japan_flag.png",
     ),
 
     // Question 8: Flag of Brazil 
@@ -210,7 +210,7 @@ class QuestionBank {
       correctAnswer: "Brazil",
       type: QuestionType.visualQuestion,
       id: "brazil_flag",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/flags/brazil_flag.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/brazil_flag.png",
     ),
 
     // Question 9: Flag of Luxembourg
@@ -236,7 +236,7 @@ class QuestionBank {
       correctAnswer: "Luxembourg",
       type: QuestionType.visualQuestion,
       id: "luxembourg_flag",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/flags/luxembour_flag.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/luxembour_flag.png",
     ),
 
     // Question 10: Flag of Saudi Arabia
@@ -262,7 +262,7 @@ class QuestionBank {
       correctAnswer: "Saudi Arabia",
       type: QuestionType.visualQuestion,
       id: "saudi_arabia_flag",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/flags/saudi_arabia_flag.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/saudi_arabia_flag.png",
     ),
 
     // Question 11: Location of Japan
@@ -288,7 +288,7 @@ class QuestionBank {
       correctAnswer: "Japan",
       type: QuestionType.visualQuestion,
       id: "japan_location",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/maps/japan_map.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/japan_map.png",
     ),
 
     // Question 12: Location of Australia 
@@ -314,7 +314,7 @@ class QuestionBank {
       correctAnswer: "Australia",
       type: QuestionType.visualQuestion,
       id: "australia_continent",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/maps/oceania_map.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/oceania_map.png",
     ),
 
     // Question 13: Location of Cameroon
@@ -340,7 +340,7 @@ class QuestionBank {
       correctAnswer: "Cameroon",
       type: QuestionType.visualQuestion,
       id: "cameroon_location",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/maps/cameroon_map.png.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/cameroon_map.png.jpg",
     ),
 
     // Question 14: Location of Guatemala
@@ -366,7 +366,7 @@ class QuestionBank {
       correctAnswer: "Guatemala",
       type: QuestionType.visualQuestion,
       id: "guatemala_location",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/maps/guatemala_map.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/guatemala_map.png",
     ),
 
     // Question 15: Location of Afghanistan
@@ -392,7 +392,7 @@ class QuestionBank {
       correctAnswer: "Afghanistan",
       type: QuestionType.visualQuestion,
       id: "afghanistan_location",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/maps/afghanistan_map.png.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/afghanistan_map.png.jpg",
     ),
 
     // Question 16: Biggest dessert record
@@ -416,7 +416,7 @@ class QuestionBank {
       correctAnswer: "Sahara Desert",
       type: QuestionType.visualQuestion,
       id: "largest_desert",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/maps/sahara_desert.png.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/sahara_desert.png.jpg",
     ),
 
     // Question 17: Most populous city 
@@ -440,7 +440,7 @@ class QuestionBank {
       correctAnswer: "Tokyo",
       type: QuestionType.visualQuestion,
       id: "most_populous_city",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/capitals/tokyo.png.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/tokyo.png.jpg",
     ),
 
     // Question 18: Smallest city 
@@ -464,7 +464,7 @@ class QuestionBank {
       correctAnswer: "Vatican City",
       type: QuestionType.visualQuestion,
       id: "smallest_country",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/capitals/vatican.png.jpeg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/vatican.png.jpeg",
     ),
 
     // Question 19: Largest lake
@@ -488,7 +488,7 @@ class QuestionBank {
       correctAnswer: "Lake Baikal",
       type: QuestionType.visualQuestion,
       id: "largest_lake",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/maps/lake_baikal.png",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/lake_baikal.png",
     ),
 
     // Question 20: Deepest point 
@@ -512,7 +512,7 @@ class QuestionBank {
       correctAnswer: "Mariana Trench",
       type: QuestionType.visualQuestion,
       id: "deepest_ocean",
-      imageAsset: "/Users/misia/Downloads/geography_app/flutter_application_1/android/assets/images/maps/mariana_trench.png.jpg",
+      imageAsset: "/Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/mariana_trench.png.jpg",
     ),
 
   ];
