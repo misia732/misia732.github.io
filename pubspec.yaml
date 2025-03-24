@@ -66,28 +66,28 @@ flutter:
 
 
   assets:
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/ashgabat.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/ashgabat.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/brazil_flag.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/japan_flag.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/japan_map.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/canada_flag.png.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/oceania_map.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/canberra.png.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/paris.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/rwanda_capital.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/ashgabat.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/damascus.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/luxembour_flag.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/flags/saudi_arabia_flag.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/cameroon_map.png.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/guatemala_map.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/afghanistan_map.png.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/sahara_desert.png.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/tokyo.png.jpg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/capitals/vatican.png.jpeg
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/lake_baikal.png
-      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/images/maps/mariana_trench.png.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/ashgabat.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/ashgabat.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/flags/brazil_flag.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/flags/japan_flag.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/maps/japan_map.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/flags/canada_flag.png.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/maps/oceania_map.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/canberra.png.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/paris.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/rwanda_capital.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/ashgabat.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/damascus.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/flags/luxembour_flag.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/flags/saudi_arabia_flag.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/maps/cameroon_map.png.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/maps/guatemala_map.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/maps/afghanistan_map.png.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/maps/sahara_desert.png.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/tokyo.png.jpg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/capitals/vatican.png.jpeg
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/maps/lake_baikal.png
+      - /Users/misia/Desktop/geography_app/flutter_application_1/assets/assets/images/maps/mariana_trench.png.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
